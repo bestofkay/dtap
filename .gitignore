@@ -1,0 +1,4 @@
+# keep binaries tracked; ignore editor junk only
+.DS_Store
+Thumbs.db
+*.tmp
