@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T13:50:27.476Z",
+  "updatedAt": "2026-11-21T15:54:56.231Z",
   "desktop": {
     "version": "1.1.2",
     "files": [
@@ -8,12 +8,12 @@
     ]
   },
   "mobile": {
-    "version": "1.1.1",
+    "version": "1.1.2",
     "files": [
       "mobile/DTAP.apk",
-      "mobile/DTAP-1.1.1.apk",
+      "mobile/DTAP-1.1.2.apk",
       "mobile/DTAP-32bit.apk",
-      "mobile/DTAP-1.1.1-32bit.apk"
+      "mobile/DTAP-1.1.2-32bit.apk"
     ]
   }
 }
