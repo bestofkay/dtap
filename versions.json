@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-22T16:43:28.036Z",
+  "updatedAt": "2026-11-24T05:30:32.670Z",
   "desktop": {
-    "version": "1.1.5",
+    "version": "1.1.6",
     "files": [
       "desktop/DTAP.exe",
-      "desktop/DTAP-1.1.5-windows.exe"
+      "desktop/DTAP-1.1.6-windows.exe"
     ]
   },
   "mobile": {
-    "version": "1.2.1",
+    "version": "1.2.2",
     "files": [
       "mobile/DTAP.apk",
-      "mobile/DTAP-1.2.1.apk",
+      "mobile/DTAP-1.2.2.apk",
       "mobile/DTAP-32bit.apk",
-      "mobile/DTAP-1.2.1-32bit.apk"
+      "mobile/DTAP-1.2.2-32bit.apk"
     ]
   }
 }
